@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 200px;
 }
 
 .haif {
@@ -35,4 +36,10 @@ section {
 .bg-image {
     background-image: url(new/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream {
+    background-image: url(new/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
